@@ -1,1 +1,20 @@
-
+```json
+{
+  "name": "dilkhan-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot built with whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "DIL KANO TMD",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.18.3",
+    "qrcode-terminal": "^0.12.0",
+    "dotenv": "^16.0.3",
+    "axios": "^1.4.0",
+    "openai": "^3.2.1"
+  }
+}
+```
